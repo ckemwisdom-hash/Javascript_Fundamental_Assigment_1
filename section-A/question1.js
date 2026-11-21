@@ -1,3 +1,4 @@
+// Arithmetic & modulus Operattion
 let price = 45
 let quantity = 4
 const totalCost = price * quantity
