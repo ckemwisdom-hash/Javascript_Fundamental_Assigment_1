@@ -1,4 +1,4 @@
-// Create an array using square brackets
+// Array Creation & Positional Indexing
 let courses = ["JavaScript", "Networking", "Database", "Web Design"];
 
 // Create an array using the new Array() constructor
