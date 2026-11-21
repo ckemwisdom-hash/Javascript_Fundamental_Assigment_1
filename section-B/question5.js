@@ -1,3 +1,4 @@
+// String Methods, Method Chaining & Formatting
 let rawEmail = "Student.DICT@Limkokwing.EDU.SL";
 
 // Convert to lowercase and check if it includes limkokwing
