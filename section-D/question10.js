@@ -1,3 +1,4 @@
+// Nested Objects, Array & Template Literal Formating
 let hotelRoom = {
     location: "Aberdeen",
     pricePerNight: 500,
