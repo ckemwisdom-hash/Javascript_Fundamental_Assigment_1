@@ -7,7 +7,7 @@ marketBasket.push("Rice", "Palm Oil", "Onions");
 // 2. Remove the last item
 marketBasket.pop();
 
-// 3. Add Pepper and then Salt to the beginning
+// 3. Add items in the beginning
 marketBasket.unshift("Pepper");
 marketBasket.unshift("Salt");
 
