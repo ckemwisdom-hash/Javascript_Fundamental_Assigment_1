@@ -1,3 +1,4 @@
+// Number Comparison Logic
 let scoreA = 75;
 let scoreB = 82;
 
