@@ -1,3 +1,4 @@
+// Object Manipulation(Read, Update, Add)
 let course = {
     code: "BSEM2104",
     title: "Web Development",
