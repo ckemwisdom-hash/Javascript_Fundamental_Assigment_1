@@ -1,3 +1,4 @@
+// Mixed Data Types & Nested Array/Object Access
 let studentProfile = { name: "Foday", age: 34 };
 
 let records = [
