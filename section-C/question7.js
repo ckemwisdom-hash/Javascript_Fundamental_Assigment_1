@@ -1,7 +1,8 @@
-let registeredEmail = "student@limkokwing.edu.sl";
+// Authentication Check
+let registeredEmail = "ckemwisdom@gmail.com";
 let registeredPassword = "12345";
 
-let enteredEmail = "student@limkokwing.edu.sl";
+let enteredEmail = "ckemwisdom@gmail.com";
 let enteredPassword = "12345";
 
 if (enteredEmail === registeredEmail && enteredPassword === registeredPassword) {
