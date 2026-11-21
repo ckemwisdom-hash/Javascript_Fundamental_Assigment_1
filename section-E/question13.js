@@ -1,4 +1,4 @@
-// Start with an empty array
+// Array Manipulation (Push, Pop, Unshift, Shift)
 let marketBasket = [];
 
 // 1. Add items to the end of the array
