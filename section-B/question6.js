@@ -1,10 +1,13 @@
+// Convention vs Template Literal
 let courseName = "JavaScript Fundamentals";
 let lecturerName = "Amadu Kamara";
 let creditHours = 3;
 let semester = "First Semester";
 
 // Using standard string concatenation
-console.log("I am studying " + courseName + ", taught by " + lecturerName + ". It has " + creditHours + " credit hours in " + semester + ".");
+let paragraph = "I am studying " + courseName + ", taught by " + lecturerName + ". It has " + creditHours + " credit hours in " + semester + "."
+console.log(paragraph);
+
 
 // Calculating the average of three test scores
 let score1 = 68;
