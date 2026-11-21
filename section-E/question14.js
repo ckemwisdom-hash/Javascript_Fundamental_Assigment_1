@@ -1,4 +1,4 @@
-// Create an empty array
+// Building an Array of Objects (Database Simulation)
 let lecturersDb = [];
 
 // Insert three lecturer objects using push()
